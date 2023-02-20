@@ -313,7 +313,6 @@ We want this method to print the message: "Whee! Look at me riding my bike!".
   </p>
 </details>
 
-
 ## Conclusion
 
 We now know how to read, call, and write methods that return nothing and take in
