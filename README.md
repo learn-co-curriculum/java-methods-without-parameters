@@ -309,10 +309,8 @@ We want this method to print the message: "Whee! Look at me riding my bike!".
     <summary>What is the output when we run this program?</summary>
 
   <p>Answer: <br>
-     <p><code>System.out.println("Whee! Look at me riding my bike!");</code></p>
+     <p>Whee! Look at me riding my bike!</p>
   </p>
-
-  <p>This one statement would go within the curly braces of the <code>ride()</code> method.</p>
 </details>
 
 
